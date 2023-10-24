@@ -1,7 +1,8 @@
 # RNavigation
+This is a React Native application done to learn [how to navigate between screens using RN](https://aboutreact.com/react-native-stack-navigation/#React-Navigation).
 
 ## Description
-This is a React Native application done to learn [how to navigate between screens using RN](https://aboutreact.com/react-native-stack-navigation/#React-Navigation). This repository includes the codes for two separate hands-on works: "RNavigation" for the aforementioned navigating, and "RNavigation2" for learning to utilize [splash, login, and sign up with RN](https://aboutreact.com/react-native-login-and-signup/).
+This repository includes the codes for two separate hands-on works: "RNavigation" for the aforementioned navigating, and "RNavigation2" for learning to utilize [splash, login, and sign up with RN](https://aboutreact.com/react-native-login-and-signup/).
 
 
 ## Step-by-step guide - *"How do I actually use this site?"*
