@@ -4,7 +4,7 @@
 This is a React Native application done to learn [how to navigate between screens using RN](https://aboutreact.com/react-native-stack-navigation/#React-Navigation). This repository includes the codes for two separate hands-on works: "RNavigation" for the aforementioned navigating, and "RNavigation2" for learning to utilize [splash, login, and sign up with RN](https://aboutreact.com/react-native-login-and-signup/).
 
 
-## ## Step-by-step guide - *"How do I actually use this site?"*
+## Step-by-step guide - *"How do I actually use this site?"*
 This is a University practice project, but the codes should run just fine if you wish to download the directories.
 
 While there are a few ways to get it running, the easiest is via Command Prompt. You can see the prerequisites to this process [here](https://reactnative.dev/docs/environment-setup?guide=native#:~:text=Installing%20dependencies).
